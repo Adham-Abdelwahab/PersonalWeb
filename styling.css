@@ -45,6 +45,11 @@ body{
 .nav ol li a:hover::before{transform: scaleY(1.1);}
 .nav ol li a:hover{color:red;}
 
+p#intro{
+    margin-left:60px; 
+    margin-right:40px;
+    margin-top:200px;
+}
 
 @keyframes gradient {
     0% {
@@ -78,5 +83,10 @@ body{
     img#profilepic{
         width:80%;
         height:auto;
+    }
+    p#intro{
+        margin-left:60px; 
+        margin-right:40px;
+        margin-top:40px;
     }
 }
