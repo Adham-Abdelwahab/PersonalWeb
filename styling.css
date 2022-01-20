@@ -6,6 +6,9 @@ body{
     font-weight:bold;
     color:navy;
 }
+a{
+    color:inherit;
+}
 .nav{
     display:flex;
     align-items: center;
